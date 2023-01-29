@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/leonardoce/pgsalt/compare/v1.0.0...v1.0.1) (2023-01-29)
+
+
+### Bug Fixes
+
+* use go 1.19 (force release) ([b46ca9b](https://github.com/leonardoce/pgsalt/commit/b46ca9b0345bc4c140cc1bda3a1f5529443d24f3))
+
 ## 1.0.0 (2023-01-29)
 
 
